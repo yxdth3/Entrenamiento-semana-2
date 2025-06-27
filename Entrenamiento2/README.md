@@ -2,7 +2,7 @@
 ✨ Sitio web ✨ 
 Aprendizaje de estructuras de datos avanzadas en JavaScript, específicamente objetos, sets y maps.
 
-📝 Descripción 📝
+📝 Descripción 📝 <br>
 En este entrenamiento pondré en práctica mis conocimientos sobre las estructuras de datos avanzadas en JavaScript, específicamente objetos, sets y maps. Estas herramientas me permitirán organizar, almacenar y manipular información de forma más eficiente, mientras aplico buenas prácticas de programación.
 
 🛠️ Tecnologías usadas 🛠️
@@ -33,7 +33,7 @@ bash
 └── README.md                    # Este archivo
 ```
 
-📞 Contacto 📞
+📞 Contacto 📞  <br>
 Nombre: Yiseth Gutiérrez 
 Teléfono: 3206781487
 Correo: gutierrezyiseth3@gmail.com
