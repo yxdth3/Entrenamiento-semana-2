@@ -23,7 +23,7 @@ bash
     (O usa un servidor local como Live Server en VS Code)
 
 🚧 Estructura 🚧
-
+```
 ├── index.html                   # Página principal
 ├── js/
 │   ├── gestion_datos.js         # Lógica principal
@@ -31,7 +31,7 @@ bash
 |    ├── css/
 │       ├── styles.css           # Estilos principales
 └── README.md                    # Este archivo
-
+```
 
 📞 Contacto 📞
 Nombre: Yiseth Gutiérrez 
