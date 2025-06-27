@@ -1,0 +1,57 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f593;
+  color: #333;
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+h1, h2 {
+  color: #504805;
+  text-align: center;
+}
+
+#product-form, #product-list {
+  background: rgb(250, 248, 248);
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 1rem rgb(53, 26, 1);
+}
+
+input {
+  margin: 5px;
+  padding: 8px;
+}
+
+button {
+  padding: 8px 12px;
+  background-color: #7f682a;
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #301d07;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 1px solid #e2d3d3;
+  padding: 8px;
+  text-align: center;
+}
+
+#alert {
+  color: rgb(160, 7, 7);
+  text-align: center;
+  margin-top: 10px;
+}

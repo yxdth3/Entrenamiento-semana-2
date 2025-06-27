@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gift Shop</title>
+  <link rel="stylesheet" href="./assets/css/style.css" />
+</head>
+<body>
+   <h1>🎁 Gift Shop 🎁</h1>
+
+  <section id="product-form">
+    <h2>Add Product</h2>
+    <input type="number" id="id" placeholder="ID" required />
+    <input type="text" id="name" placeholder="Name" required />
+    <input type="number" id="price" placeholder="Price" required />
+    <button onclick="addProduct()">Add Product</button>
+    <p id="alert"></p>
+  </section>
+
+  <section id="product-list">
+    <h2>Product List</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Name</th>
+          <th>Price</th>
+        </tr>
+      </thead>
+      <tbody id="table-body"></tbody>
+    </table>
+  </section>
+  <script src="./gestion_datos.js"></script>
+</body>
+</html>
